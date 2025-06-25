@@ -1,0 +1,8 @@
+pandas==2.2.2              # Untuk manipulasi data tabular (CSV)
+scikit-learn==1.4.2        # Untuk TF-IDF, evaluasi, dan model ML seperti Naive Bayes/SVM
+pdfminer.six==20231228     # Untuk ekstraksi teks dari file PDF
+numpy==1.26.4              # Dukungan array dan operasi numerik
+matplotlib==3.8.4          # (Opsional) Visualisasi hasil evaluasi
+seaborn==0.13.2            # (Opsional) Visualisasi metrik
+transformers==4.41.2       # (Opsional) Jika pakai BERT atau embedding
+torch==2.3.0               # (Opsional) Backend untuk Transformers
